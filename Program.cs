@@ -27,4 +27,6 @@ public class Calculator
             return double.NaN; // NaN represents "Not a Number"
         }
     }
+Console.WriteLine("Hej Nicke!");
+Console.WriteLine("/ff 15");
 }
